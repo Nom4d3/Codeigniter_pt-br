@@ -41,8 +41,8 @@ $lang['db_field_param_missing'] =      'Para buscar campos, é necessário inserir
 $lang['db_unsupported_function'] =     'Este recurso não está disponível para a base de dados que está em uso.';
 $lang['db_transaction_failure'] =      'Falha na transação: Rollback executado.';
 $lang['db_unable_to_drop'] =           'Não foi possível apagar a base de dados especificada.';
-$lang['db_unsuported_feature'] =       'Recurso não suportado pela plataforma da base de dados que está em uso.';
-$lang['db_unsuported_compression'] =   'Formato de compressão de arquivos escolhido não suportado pelo servidor.';
+$lang['db_unsupported_feature'] =      'Recurso não suportado pela plataforma da base de dados que está em uso.';
+$lang['db_unsupported_compression'] =  'Formato de compressão de arquivos escolhido não suportado pelo servidor.';
 $lang['db_filepath_error'] =           'Não foi possível escrever dados no caminho especificado.';
 $lang['db_invalid_cache_path'] =       'O caminho especificado para cache é inválido ou não há permissão de escrita.';
 $lang['db_table_name_required'] =      'Para essa operação, é necessário inserir o nome da tabela.';
@@ -50,6 +50,8 @@ $lang['db_column_name_required'] =     'Para essa operação, é necessário inserir
 $lang['db_column_definition_required'] = 'Para essa operação, é necessário definir a coluna.';
 $lang['db_unable_to_set_charset'] =    'Não foi possível definir o conjunto de caracteres da conexão do cliente: %s';
 $lang['db_error_heading'] =            'Ocorreu um erro de base de dados';
+
+
 
 /* End of file db_lang.php */
 /* Location: ./system/language/pt-br/db_lang.php */
